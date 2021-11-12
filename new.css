@@ -1,0 +1,31 @@
+@media screen and (max-width: 480px){
+    .navbar-nav{
+        margin-left:0px;
+    }
+    .sign-up-box{
+        margin-left:-10px;
+    }
+    .banner-image{
+       width:100%;
+    }
+    .about-section-image{
+        width:100%;
+    }
+    .global-image{
+        width:100%;
+    }
+    .icon-image{
+        width:100%;
+    }
+    .group-cards{
+        width:100%;
+    }
+    .sub-image{
+        width: 100%;
+         box-shadow: 5px 0px 5px grey;
+        border-radius: 5px;
+     } 
+     
+     
+
+}
